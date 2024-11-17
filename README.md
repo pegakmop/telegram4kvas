@@ -23,9 +23,5 @@ curl -OLf https://raw.githubusercontent.com/dnstkrv/telegram4kvas/main/script/in
 ```
 curl -OLf https://raw.githubusercontent.com/dnstkrv/telegram4kvas/main/script/install.sh && sh install.sh -remove
 ```
-# На чай автору бота
 
-**МИР** 2202201523445100
-
-[Кошелек ЮМани](https://yoomoney.ru/to/410013576101136) 
 
